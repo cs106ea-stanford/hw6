@@ -1,3 +1,4 @@
+# Patrick Young, Stanford CS106EA
 
 import torch
 # from transformers import GPT2Tokenizer, GPT2LMHeadModel

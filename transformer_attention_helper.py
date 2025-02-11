@@ -1,5 +1,7 @@
 
-### Standard Imports
+# Patrick Young, Stanford CS106EA
+
+# ### Standard Imports
 import torch
 import transformers
 
